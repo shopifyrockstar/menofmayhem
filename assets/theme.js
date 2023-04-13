@@ -4632,6 +4632,7 @@
             delay: 300 + 120 * index - Math.min(2 * index * index, 120 * index),
             easing: "cubic-bezier(0.25, 1, 0.5, 1)"
           });
+          console.log("item button clicked");
         })));
         const bottomBar = this.querySelector(".drawer__footer");
         if (bottomBar) {
