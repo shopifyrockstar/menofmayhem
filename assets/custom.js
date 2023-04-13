@@ -135,10 +135,11 @@
 
 $(".mobile-nav__link.heading").on('click', function(){
     var expand_value = $(this).attr('aria-expanded');    
-    // console.log(expand_value);
     if ( expand_value == "true" ){
-        console.log("true");
+        // console.log("true");
+        $(this).parent(".mobile-nav__item").find('.collapsible').attr('open', true);
     }else{
-        console.log("false");
+        // console.log("false");
+        $(this).parent(".mobile-nav__item").find('.collapsible').attr('open', false);
     }
 })
