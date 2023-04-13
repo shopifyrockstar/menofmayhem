@@ -4616,50 +4616,50 @@
   window.customElements.define("desktop-navigation", DesktopNavigation);
 
   // js/custom-element/section/header/mobile-navigation.js
-  var MobileNavigation = class extends DrawerContent {
-    get apparitionAnimation() {
-      if (this._apparitionAnimation) {
-        return this._apparitionAnimation;
-      }
-      if (!MediaFeatures.prefersReducedMotion()) {
-        const navItems = Array.from(this.querySelectorAll('.mobile-nav__item[data-level="1"]')), effects = [];
-        effects.push(new ParallelEffect(navItems.map((item, index) => {
-          return new CustomKeyframeEffect(item, {
-            opacity: [0, 1],
-            transform: ["translateX(-40px)", "translateX(0)"]
-          }, {
-            duration: 300,
-            delay: 300 + 120 * index - Math.min(2 * index * index, 120 * index),
-            easing: "cubic-bezier(0.25, 1, 0.5, 1)"
-          });
-        })));
-        const bottomBar = this.querySelector(".drawer__footer");
-        if (bottomBar) {
-          effects.push(new CustomKeyframeEffect(bottomBar, {
-            opacity: [0, 1],
-            transform: ["translateY(100%)", "translateY(0)"]
-          }, {
-            duration: 300,
-            delay: 500 + Math.max(125 * navItems.length - 25 * navItems.length, 25),
-            easing: "cubic-bezier(0.25, 1, 0.5, 1)"
-          }));
-        }
-        return this._apparitionAnimation = new CustomAnimation(new ParallelEffect(effects));
-      }
-    }
-    attributeChangedCallback(name, oldValue, newValue) {
-      super.attributeChangedCallback(name, oldValue, newValue);
-      switch (name) {
-        case "open":
-          if (this.open && this.apparitionAnimation) {
-            Array.from(this.querySelectorAll('.mobile-nav__item[data-level="1"], .drawer__footer')).forEach((item) => item.style.opacity = 0);
-            this.apparitionAnimation.play();
-          }
-          triggerEvent(this, this.open ? "mobile-nav:open" : "mobile-nav:close");
-      }
-    }
-  };
-  window.customElements.define("mobile-navigation", MobileNavigation);
+  // var MobileNavigation = class extends DrawerContent {
+  //   get apparitionAnimation() {
+  //     if (this._apparitionAnimation) {
+  //       return this._apparitionAnimation;
+  //     }
+  //     if (!MediaFeatures.prefersReducedMotion()) {
+  //       const navItems = Array.from(this.querySelectorAll('.mobile-nav__item[data-level="1"]')), effects = [];
+  //       effects.push(new ParallelEffect(navItems.map((item, index) => {
+  //         return new CustomKeyframeEffect(item, {
+  //           opacity: [0, 1],
+  //           transform: ["translateX(-40px)", "translateX(0)"]
+  //         }, {
+  //           duration: 300,
+  //           delay: 300 + 120 * index - Math.min(2 * index * index, 120 * index),
+  //           easing: "cubic-bezier(0.25, 1, 0.5, 1)"
+  //         });
+  //       })));
+  //       const bottomBar = this.querySelector(".drawer__footer");
+  //       if (bottomBar) {
+  //         effects.push(new CustomKeyframeEffect(bottomBar, {
+  //           opacity: [0, 1],
+  //           transform: ["translateY(100%)", "translateY(0)"]
+  //         }, {
+  //           duration: 300,
+  //           delay: 500 + Math.max(125 * navItems.length - 25 * navItems.length, 25),
+  //           easing: "cubic-bezier(0.25, 1, 0.5, 1)"
+  //         }));
+  //       }
+  //       return this._apparitionAnimation = new CustomAnimation(new ParallelEffect(effects));
+  //     }
+  //   }
+  //   attributeChangedCallback(name, oldValue, newValue) {
+  //     super.attributeChangedCallback(name, oldValue, newValue);
+  //     switch (name) {
+  //       case "open":
+  //         if (this.open && this.apparitionAnimation) {
+  //           Array.from(this.querySelectorAll('.mobile-nav__item[data-level="1"], .drawer__footer')).forEach((item) => item.style.opacity = 0);
+  //           this.apparitionAnimation.play();
+  //         }
+  //         triggerEvent(this, this.open ? "mobile-nav:open" : "mobile-nav:close");
+  //     }
+  //   }
+  // };
+  // window.customElements.define("mobile-navigation", MobileNavigation);
 
   // js/custom-element/section/header/store-header.js
   var StoreHeader = class extends CustomHTMLElement {
