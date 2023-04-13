@@ -135,6 +135,7 @@
 
 $(".mobile-nav__link.heading").on('click', function(){
     var expand_value = $(this).attr('aria-expanded');    
+    console.log(expand_value);
     if ( expand_value == "true" ){
         console.log("true");
     }else{
