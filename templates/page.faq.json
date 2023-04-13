@@ -1,0 +1,297 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16624694232591004d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-newsletter-banner-dog.jpg",
+        "subheading": "",
+        "title": "Wonach suchst du?",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "b573ab11-d78b-4929-b350-5e9000671902": {
+          "type": "category",
+          "settings": {
+            "title": "Allgemeine Fragen"
+          }
+        },
+        "73872556-e81d-473f-a287-0cacb52245d8": {
+          "type": "question",
+          "settings": {
+            "title": "An wen richten sich die Produkte von",
+            "answer": "<p>Unsere Bekleidung ist hauptsächlich Freizeitbekleidung für Frauen und Männer, die besonders im Kosmos der Biker und Motorrad-Szene vertreten ist.<\/p>"
+          }
+        },
+        "f5dc92d2-7d09-40b0-b5ca-17bdb56a88be": {
+          "type": "question",
+          "settings": {
+            "title": "Corona – alles ist anders. Ein paar wichtige Worte.",
+            "answer": "<p>Hallo Mayhems!<\/p><p>Leider erreichen uns immer wieder Nachrichten, wann Nachschub für ausverkaufte Artikel kommt. Dazu möchten wir ein paar persönliche Worte loswerden.<\/p><p>Leider hat Corona die komplette Branche auf den Kopf gestellt. Weltweit herrscht gerade Chaos, ausgelöst durch die verdammte Pandemie.<\/p><p>Seit Anbeginn der Maßnahmen hat sich das komplette Game verändert. Nie zuvor gab es solche Engpässe an Ressourcen – ob Rohstoffe oder Arbeitskräfte, alles ist rar zur Zeit.<\/p><p>Natürlich sind wir nicht die einzig Betroffenen. In allen anderen Branchen sieht es ähnlich aus.<br\/>Egal ob Baustoffe, Chips für die Automobilbranche, Holz, oder eben Baumwolle – die Preise sind nahezu explodiert. Rohstoffe sind dürftig zu bekommen und die Verknappung hat natürlich wieder große Firmen und Konzerne dazu animiert, kleine Unternehmen aufzukaufen und sich somit einen Marktvorteil zu verschaffen. Zusätzlich eingeschränkte Transport-Möglichkeiten und explodierende Frachtraten machen den internationalen Handel und Warenverkehr zu einer absoluten Herausforderung, die uns gerade alles abverlangt.<\/p><p>Um schnell auf Veränderungen reagieren zu können, stehen wir im engen Austausch mit unseren Zulieferern. Doch auch hier reicht manchmal ein einziges Glied in der Kette, um einen gesamten Produktions-Prozess einzufrieren.<\/p><p>Auch wenn textile Produkte vielleicht unkompliziert scheinen mögen – genau das Gegenteil ist der Fall. In jeder Fertigung – selbst für ein „simples“ T-Shirt – sind mindestens 15 – 20 Leute und ein Dutzend verschiedener Prozesse an der Produktion und Umsetzung beteiligt, die schon beim weben des Stoffes beginnt.<\/p><p>Dies erstreckt sich in unserem Fall nicht selten über mehrere Unternehmen, die teilweise durch Schließungen etc. betroffen waren und noch immer sind. Somit nützt es z.B. nichts, wenn ein T-Shirt fertig gewebt, gefärbt und bedruckt ist, wenn die Produkte am Ende der Kette nicht gebügelt und aufbereitet werden können.<\/p><p>Etliche Unternehmen kommen aus dem Lockdown gar nicht erst zurück und die Tore bleiben geschlossen. Es gilt gerade gefühlt das Motto „Survival of the fittest“ am internationalen Markt.<\/p><p>Der Grund dafür sind die Unsicherheiten im Markt, die aktuell unsere Zulieferer und somit auch uns betreffen. Wir lassen nichts unversucht, um unsere Lager schnellstmöglich zu füllen.<br\/>Durch diese außerplanmäßige Situation können wir leider zu einigen Produkten nicht immer verbindliche Aussagen treffen.<\/p><p>Wir möchten uns vielmals für die teilweise langen Wartezeiten bei euch entschuldigen!<\/p><p>In diesem Post buhlen wir nicht um Mitleid. Wir möchten euch lediglich einen Blick hinter unsere Kulissen gewähren und aufzeigen, was uns und viele andere Branchen gerade davon abhält, so zu agieren, wie wir gerne würden.<\/p><p>Wir teilen euren Verdruss. Auch wir wünschen uns nichts mehr als volle Regale! Wir haben nichts von leeren Lagern – ganz im Gegenteil.<\/p><p>Die gesamte Mayhem-Crew sitzt bei maximal ausgeschlagenem Koffeingehalt im Blut daran, das Beste aus der Situation zu machen, um euch schnellstmöglich neue Produkte und Restocks unserer Bestseller präsentieren zu können. Wir stecken den Kopf nicht in den Sand und auch diese Woche treffen wieder einige Lieferungen ein.<\/p><p>Wir klopfen 13 mal auf Asphalt.<\/p>"
+          }
+        },
+        "eb422900-1c75-43ee-8d72-cc0d5225908a": {
+          "type": "question",
+          "settings": {
+            "title": "Seid ihr auf social media Kanälen vertreten?",
+            "answer": "<p>Na logo!<\/p><p>Du findest uns auf folgenden Kanälen:<\/p><p><a href=\"https:\/\/www.facebook.com\/menofmayhem.de\" target=\"_blank\">facebook<\/a> \/\/ <a href=\"https:\/\/www.instagram.com\/menofmayhem13\/\" target=\"_blank\">Instagram<\/a> \/\/ <a href=\"https:\/\/www.youtube.com\/MENOFMAYHEM13\" target=\"_blank\">Youtube<\/a><\/p>"
+          }
+        },
+        "c4bf72d3-cda4-4967-b6e3-831ef5993032": {
+          "type": "question",
+          "settings": {
+            "title": "Was ist MEN OF MAYHEM?",
+            "answer": "<p>Men of Mayhem ist eine Motorrad Lifestyle Marke. Für Menschen mit Ecken und Kanten.<br\/>Für Menschen, die sich nicht die Butter vom Brot nehmen lassen, wie der Hamburger zu sagen pflegt.<\/p>"
+          }
+        },
+        "e7613be2-417c-4c81-bbba-e8a748a8e378": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Produkte gibt es von MEN OF MAYHEM?",
+            "answer": "<p>Das Produktsortiment von MEN OF MAYHEM umfasst, für <a href=\"https:\/\/men-of-mayhem.com\/produkt-kategorie\/womens-clothing\/\">Frauen<\/a> und <a href=\"https:\/\/men-of-mayhem.com\/produkt-kategorie\/mens-clothing\/\">Männer<\/a>, von <a href=\"https:\/\/men-of-mayhem.com\/?s=t-shirt&post_type=product\">T-Shirts<\/a>, <a href=\"https:\/\/men-of-mayhem.com\/?s=hoody&post_type=product\">Hoodies<\/a>, <a href=\"https:\/\/men-of-mayhem.com\/?s=hoody+jacke&post_type=product\">Hoody Jacken<\/a>, <a href=\"https:\/\/men-of-mayhem.com\/?s=crewneck&post_type=product\">Crewnecks<\/a>, <a href=\"https:\/\/men-of-mayhem.com\/?s=hose&post_type=product\">Hosen<\/a> bis hin zu diversen <a href=\"https:\/\/men-of-mayhem.com\/produkt-kategorie\/extras\/\">Accessoires<\/a>, wie <a href=\"https:\/\/men-of-mayhem.com\/produkt-kategorie\/extras\/anhaenger\/\">Schlüsselanhänger<\/a>, <a href=\"https:\/\/men-of-mayhem.com\/produkt-kategorie\/extras\/caps-tuecher\/\">Caps & Beanies<\/a>, <a href=\"https:\/\/men-of-mayhem.com\/?s=bandana&post_type=product\">Bandanas<\/a> & <a href=\"https:\/\/men-of-mayhem.com\/?s=tube&post_type=product\">Schlauchtücher<\/a> (Tubes) so ziemlich alles, was du für ein komplettes Outfit benötigst.<\/p>"
+          }
+        },
+        "d87b5770-50f4-42d8-ba4f-e420b8206f8f": {
+          "type": "question",
+          "settings": {
+            "title": "Wie ist die Qualität von MEN OF MAYHEM Produkten?",
+            "answer": "<p>Wir haben höchste Ansprüche an die Qualität der MEN OF MAYHEM Produkte und sind mit vollem Einsatz und Herzblut dabei, um diesen auch gerecht zu werden.<\/p><p>Daher setzen wir auf hochwertige Stoffe, langlebige Drucke sowie Stick-Motive.<\/p>"
+          }
+        },
+        "f17b6104-1ff6-4989-a929-6ea35d5a7104": {
+          "type": "question",
+          "settings": {
+            "title": "Wo bekomme ich die Produkte von MEN OF MAYHEM offline, sprich im Einzelhandel?",
+            "answer": "<p>Unser <a href=\"https:\/\/www.instagram.com\/menofmayhemhamburg\">Flagship-Store<\/a> befindet sich in Hamburg. Hier bekommst du unser gesamtes Sortiment (sofern grundsätzlich vorrätig).<br\/>Neben dem Men of Mayhem Flagship-Store in Hamburg gibt es außerdem Händler in folgenden Städten:<br\/>Bochum, Duisburg, Berlin, Schwerin, Viersen, Wunstorf\/Hannover, Eppertshausen, Künzelsau & Landshut.<br\/>Alle Informationen zu den Händlern, wie Adressen, Öffnungszeiten und Kontaktinfos findet ihr <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/stores-reseller\/\">hier<\/a>.<\/p>"
+          }
+        },
+        "8e32ca5c-1201-4fba-b0c5-599acc8f0183": {
+          "type": "question",
+          "settings": {
+            "title": "Wofür steht die 13?",
+            "answer": "<p>Die 13 steht für den 13ten Buchstaben des Alphabets – nämlich: M.<br\/>Das M wiederum steht für Mayhem.<\/p>"
+          }
+        },
+        "35685a26-a635-477d-aeaf-26956f97376c": {
+          "type": "question",
+          "settings": {
+            "title": "Woher kommt die Marke MEN OF MAYHEM?",
+            "answer": "<p>Der Geburtsort der Marke MEN OF MAYHEM ist Hamburg.<\/p><p>Genauer gesagt: Der Hamburger Kiez – die Reeperbahn.<\/p>"
+          }
+        },
+        "0477fcfc-9eb9-42f4-9fa5-c170ad7d29e1": {
+          "type": "category",
+          "settings": {
+            "title": "Bestellung"
+          }
+        },
+        "b72c4802-e76c-4903-bf82-141f0e4f8abc": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe keine Bestellbestätigung erhalten",
+            "answer": "<p>Falls du keine eMail erhalten hast, kann dies folgende Gründe haben:<br\/>– dein Emailpostfach ist voll<br\/>– du hast eine falsche eMail Adresse angegeben<br\/>– Unsere Nachricht wurde von deinem Emailprogramm als Spam eingestuft<\/p><p>Sollte dir damit noch nicht geholfen sein, kontaktiere uns gerne und wir veranlassen den erneuten Versand der Bestellbestätigung per eMail.<\/p><p>Du kannst uns auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p>"
+          }
+        },
+        "7c481e26-3867-4de5-9f46-6d4b02b141b4": {
+          "type": "question",
+          "settings": {
+            "title": "Warum wurde meine Bestellung noch nicht versendet?",
+            "answer": "<p>Gib uns bitte ein wenig Zeit deine Bestellung für den Versand vorzubereiten. Normalerweise versenden wir dein Paket innerhalb von 48 Stunden, nach Eingang der Bestellung. Es kann in besonderen Fällen auch ein wenig mehr Zeit in Anspruch nehmen.<\/p><p>Solltest du auch nach Ablauf dieser Zeit nichts von deiner Sendung gehört haben, kontaktiere uns bitte dazu.<\/p><p>Du kannst uns auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p>"
+          }
+        },
+        "8745fe6e-b49c-493b-a361-a5ad938598a8": {
+          "type": "question",
+          "settings": {
+            "title": "Ich möchte einen ausverkauften Artikel bestellen",
+            "answer": "<p>Sobald eine bestimmte Größe\/Farbe nicht mehr lieferbar ist, hast du die Möglichkeit uns eine E Mail an service@men-of-mayhem.com senden und um Benachrichtigung zu bitten.<\/p><p>Sobald der Artikel dann wieder auf Lager ist, bekommst du automatisch eine eMail zugesendet.<\/p>"
+          }
+        },
+        "22366207-e55b-4819-be95-94316e860947": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Zahlungsanbieter kann ich für meine Bestellung nutzen?",
+            "answer": "<p>Bezahlungen sind via Vorkasse, Sofortüberweisung, Paypal & Kreditkarte möglich.<\/p><p>Mehr dazu findest du <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/zahlung-und-versand\/\">hier<\/a>.<\/p>"
+          }
+        },
+        "b40c18b1-8f2c-4d9d-a946-a2f1c91fd946": {
+          "type": "category",
+          "settings": {
+            "title": "Lieferung & Versand"
+          }
+        },
+        "e98b6cd9-005c-4fa0-b0d0-b176f01fb79b": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe einen Artikel bekommen, den ich nicht bestellt habe",
+            "answer": "<p>Augen rollen und uns kontaktieren, wir werden der Sache für dich auf den Grund gehen.<\/p><p>Du kannst uns auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p><p>Wir kümmern uns nach deiner Kontaktaufnahme schnellstmöglich um dein Anliegen.<\/p>"
+          }
+        },
+        "6d60558a-81a2-4ee9-847c-32fa3ecffab9": {
+          "type": "question",
+          "settings": {
+            "title": "In welche Länder liefert MEN OF MAYHEM?",
+            "answer": "<p>Du möchtest wissen, in welche Länder Men of Mayhem liefert?<\/p><p>Alle Informationen dazu findest du <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/versand__lieferung\/\">hier<\/a>.<\/p>"
+          }
+        },
+        "babbdc77-0a06-45ea-bf2c-f7e6fa7bc416": {
+          "type": "question",
+          "settings": {
+            "title": "Mein Paket ist beschädigt",
+            "answer": "<p>Bei Beschädigungen des Inhalts kontaktiere uns bitte – wir übernehmen ab hier.<\/p><p>Du kannst uns auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p><p>Wir kümmern uns nach deiner Kontaktaufnahme schnellstmöglich um dein Anliegen!<\/p>"
+          }
+        },
+        "cbbaa29e-b3c6-4bae-976c-882e151198e5": {
+          "type": "question",
+          "settings": {
+            "title": "Meine Bestellung ist unvollständig",
+            "answer": "<p>Bitte kontaktiere uns in diesem Fall und halte deine Bestellnummer bereit.<\/p><p>Du kannst uns auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p><p>Wir kümmern uns nach deiner Kontaktaufnahme schnellstmöglich um dein Anliegen!<\/p>"
+          }
+        },
+        "16ccbea2-35c1-4edf-b86e-ce94de507797": {
+          "type": "question",
+          "settings": {
+            "title": "Wann kommt mein Paket?",
+            "answer": "<p>In der Regel dauert der Versand innerhalb Deutschlands 1-5 Werktage. Eine genauere Einschätzung der Lieferzeit deiner Bestellung findest du in der Sendungsverfolgung aus der Versandbestätigung. Die bekommst du von uns per E-Mail, sobald deine Bestellung auf dem Weg zu dir ist. Weitere Informationen zu Lieferzeiten findest du <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/zahlung-und-versand\/\">hier<\/a>.<\/p>"
+          }
+        },
+        "b9d60b02-c093-4edc-8b78-7a241e098639": {
+          "type": "question",
+          "settings": {
+            "title": "Wie ändere ich meine Adresse, nachdem ich meine Bestellung bereits aufgegeben habe?",
+            "answer": "<p>Da musst du uns schnell kontaktieren! In der Regel bleibt dir nur ein schmales Zeitfenster, bis die Bestellung an unseren Versanddienstleister übergeben wird. Ab diesem Zeitpunkt sind Änderungen nicht mehr möglich.<\/p><p>Sollte es um deine Zustellung gehen, kannst du über die Sendungsverfolgung deinen Wunsch-Zustellort wie z.B. einen Paketshop bestimmen oder den Zustelltag ändern.<\/p><p>Uns kannst du auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p><p>Wir kümmern uns nach deiner Kontaktaufnahme schnellstmöglich um dein Anliegen!<\/p>"
+          }
+        },
+        "8214a7f3-382b-4b95-b836-509306ebafc0": {
+          "type": "question",
+          "settings": {
+            "title": "Wo ist mein Paket?",
+            "answer": "<p>Den Status deiner Sendung erfährst du aus deiner Bestellbestätigung, die du per eMail von uns erhalten hast.<\/p><p>Ebenfalls enthalten ist die Information zur voraussichtliche Lieferzeit. In der Regel werden Bestellungen innerhalb von 24-48 Stunden versendet.<\/p><p>Bitte bedenke, dass wir keinerlei Einfluss auf die Auslieferung an sich haben. Somit können wir auch keine Wünsche zu Abstellort und Zeitfenster für die Auslieferung entgegen nehmen.<\/p><p>Solltest du noch weitere Hilfe benötigen, so kontaktiere uns bitte.<\/p><p>Auf folgenden Wegen kannst du uns kontaktieren:<\/p><p>Telefon <a href=\"tel:+494023969885\">040 \/ 23 96 98 85<\/a><br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail <a href=\"mailto:service@men-of-mayhem.com\">service@men-of-mayhem.com<\/a><\/p><p>Wir kümmern uns nach deiner Kontaktaufnahme schnellstmöglich um dein Anliegen!<\/p>"
+          }
+        },
+        "33735cba-b25a-47b2-9ba8-e97894b5b5be": {
+          "type": "category",
+          "settings": {
+            "title": "Retoure I Rücksendung I Erstattung"
+          }
+        },
+        "6a0fefc5-2d87-432d-a104-125997421584": {
+          "type": "question",
+          "settings": {
+            "title": "An welche Adresse schicke ich meine Retoure?",
+            "answer": "<p>Bitte mit ausgefüllten <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/wp-content\/uploads\/2021\/11\/retourschein-men-of-mayhem-pdf.pdf\" target=\"_blank\">Retourenschein<\/a> an folgende Adresse senden:<\/p><p>c\/o MEN OF MAYHEM<br\/>Fenix Outdoor Logistics GmbH<br\/>Am Alten Flugplatz 5<br\/>19288 Ludwigslust<\/p>"
+          }
+        },
+        "8abb123f-9e3e-4a64-bf21-190cff89cebb": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe den Retourenschein nicht mehr. Und nun?",
+            "answer": "<p>Damit die Bearbeitung deiner Retoure flott vonstatten gehen kann, ist der Retourenschein unbedingt nötig.<\/p><p>Solltest du diesen im Auspackwahn in die Papiertonne gefeuert haben, findest du unter folgendem Link das Formular zum Ausdrucken: <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/wp-content\/uploads\/2021\/11\/retourschein-men-of-mayhem-pdf.pdf\" target=\"_blank\">Retourenschein<\/a><\/p>"
+          }
+        },
+        "54c1d65f-f29a-4085-9774-30289d1996c0": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe eine Reklamation oder Defekt",
+            "answer": "<p>Damn! Bitte kontaktiere uns in diesem Fall – wir setzen alles daran, die Kuh schnellstmöglich vom Eis zum bekommen.<\/p><p>Du kannst uns auf folgenden Wegen kontaktieren:<\/p><p>Telefon 040 \/ 23 96 98 85<br\/>[Mo.-Fr. 10-17 Uhr]<\/p><p>eMail service@men-of-mayhem.com<\/p><p>Wir kümmern uns nach deiner Kontaktaufnahme schnellstmöglich um dein Anliegen!<\/p>"
+          }
+        },
+        "2a2916e1-3f3a-4b97-b31e-137c2066e42e": {
+          "type": "question",
+          "settings": {
+            "title": "Ich habe meine Rücksendung auf den Weg gebracht. Ist diese bei euch eingetroffen?",
+            "answer": "<p>Sobald deine Rücksendung bei uns eingetroffen ist, wird diese geprüft. Im Anschluss an die Prüfung der Ware erstatten wir den Betrag innerhalb von 14 Tagen zurück auf dein Konto.<\/p>"
+          }
+        },
+        "0222855f-b8b5-41ff-a4ba-0285e041b142": {
+          "type": "question",
+          "settings": {
+            "title": "Wann kann ich mit der Rückerstattung meiner Rücksendung rechnen?",
+            "answer": "<p>In der Regel erhältst du innerhalb von 14 Tagen die Erstattung der retournierten Artikel.Wer trägt die Kosten der Rücksendung?Wie tausche ich einen Artikel um?<\/p>"
+          }
+        },
+        "66120d4b-0114-439f-8766-3ef4efe9eeb8": {
+          "type": "question",
+          "settings": {
+            "title": "Wer trägt die Kosten für die Rücksendung?",
+            "answer": "<p>Wir übernehmen generell die Versandkosten bei Defekten und Fehllieferungen.<\/p><p>Bei einfachem Größentausch übernehmen wir keine Versandkosten für die Rücksendung. Die entstehenden Versandkosten der erneuten Lieferung der Austauschartikel werden von uns getragen.<\/p>"
+          }
+        },
+        "c2ee3169-3fd0-4468-89e3-62b879710255": {
+          "type": "question",
+          "settings": {
+            "title": "Wie tausche ich einen Artikel um?",
+            "answer": "<p>Einen direkten Umtausch führen wir nicht durch.<\/p><p>Sobald deine Retoure bei uns eingegangen ist und bearbeitet wurde, erhältst du von uns eine Rückerstattung auf das Ausgangskonto. Du kannst gerne in der Zwischenzeit schon den passenden Artikel bestellen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b573ab11-d78b-4929-b350-5e9000671902",
+        "73872556-e81d-473f-a287-0cacb52245d8",
+        "f5dc92d2-7d09-40b0-b5ca-17bdb56a88be",
+        "eb422900-1c75-43ee-8d72-cc0d5225908a",
+        "c4bf72d3-cda4-4967-b6e3-831ef5993032",
+        "e7613be2-417c-4c81-bbba-e8a748a8e378",
+        "d87b5770-50f4-42d8-ba4f-e420b8206f8f",
+        "f17b6104-1ff6-4989-a929-6ea35d5a7104",
+        "8e32ca5c-1201-4fba-b0c5-599acc8f0183",
+        "35685a26-a635-477d-aeaf-26956f97376c",
+        "0477fcfc-9eb9-42f4-9fa5-c170ad7d29e1",
+        "b72c4802-e76c-4903-bf82-141f0e4f8abc",
+        "7c481e26-3867-4de5-9f46-6d4b02b141b4",
+        "8745fe6e-b49c-493b-a361-a5ad938598a8",
+        "22366207-e55b-4819-be95-94316e860947",
+        "b40c18b1-8f2c-4d9d-a946-a2f1c91fd946",
+        "e98b6cd9-005c-4fa0-b0d0-b176f01fb79b",
+        "6d60558a-81a2-4ee9-847c-32fa3ecffab9",
+        "babbdc77-0a06-45ea-bf2c-f7e6fa7bc416",
+        "cbbaa29e-b3c6-4bae-976c-882e151198e5",
+        "16ccbea2-35c1-4edf-b86e-ce94de507797",
+        "b9d60b02-c093-4edc-8b78-7a241e098639",
+        "8214a7f3-382b-4b95-b836-509306ebafc0",
+        "33735cba-b25a-47b2-9ba8-e97894b5b5be",
+        "6a0fefc5-2d87-432d-a104-125997421584",
+        "8abb123f-9e3e-4a64-bf21-190cff89cebb",
+        "54c1d65f-f29a-4085-9774-30289d1996c0",
+        "2a2916e1-3f3a-4b97-b31e-137c2066e42e",
+        "0222855f-b8b5-41ff-a4ba-0285e041b142",
+        "66120d4b-0114-439f-8766-3ef4efe9eeb8",
+        "c2ee3169-3fd0-4468-89e3-62b879710255"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "FAQ",
+        "content": "<p>Häufig gestellte Fragen:<\/p>",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16624694232591004d",
+    "faq"
+  ]
+}

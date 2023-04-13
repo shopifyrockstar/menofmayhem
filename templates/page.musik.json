@@ -1,0 +1,505 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "a25a8c09-27cc-41ae-a04b-c487fce7fafc": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-musik-rilla_4eda2d3a-0bd2-4eb4-bda5-f3f0d64b8910.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "c355f2ce-354e-4c59-9db0-83779fd1ec45": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "MAYHEM MUSIC",
+        "title": "MEN OF MAYHEM x RILLA",
+        "content": "<p>Wir erzählen dir, wie MEN OF MAYHEM zur Musik gekommen ist. Es geschah nach dem Motto: \"Es kommt zusammen, was zusammen gehört\". <\/p><p>So kreuzten sich im Jahr 2021 die Wege von uns und Hagen Stoll aka Rilla. Wir feiern Hagen, Hagen feiert unser Brand und passt wie kaum ein Anderer zum Biker Lifestyle und ist zudem ausgestattet mit dem passenden Organ um unseren Lifeestyle von der Straße in die Ohren zu bekommen.  Die logische Konsequenz musste eine Symbiose aus Rilla & MEN OF MAYHEM in einer eigenen Soundwelt sein. Und nun, in 2023 werden wir euch regelmäßig mit frischem MAYHEM Sound versorgen!<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8ed3f9ec-fcec-4b9e-a221-9b3d45598247": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=8d2zx15KjGk",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-rilla-musik-rollin.png",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e91476b4-f780-44a8-bc41-cea670428b8a": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "MAYHEM STUDIO",
+        "content": "<p>Wir arbeiten nach einem Grundprinzip: Wir machen, worauf wir Bock haben. Somit entschlossen wir uns im Zuge der Zusammenarbeit mit RILLA dazu, in den heiligen Räumen von MEN OF MAYHEM ein eigenes Studio zu bauen. Was du von uns siehst & hörst, ist auch von & bei uns entstanden. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "54ec3b74-76dd-4229-906a-9ca8990a8ac9": {
+      "type": "gallery",
+      "blocks": {
+        "7b7bd333-3a13-42e0-a5e9-bfc26429c6a6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-einblick-7.png",
+            "caption": ""
+          }
+        },
+        "06a63d36-e48c-49f6-a514-62484ec6e7b7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-einblick-5.png",
+            "caption": ""
+          }
+        },
+        "template--16674014036219__54ec3b74-76dd-4229-906a-9ca8990a8ac9-1673018436dad9058e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-einblick-2.png",
+            "caption": ""
+          }
+        },
+        "template--16674014036219__54ec3b74-76dd-4229-906a-9ca8990a8ac9-1673018436dad9058e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-einblick-3.png",
+            "caption": ""
+          }
+        },
+        "6d366130-83c3-432c-9f04-7e76be5ef7a6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-einblick-4.png",
+            "caption": ""
+          }
+        },
+        "ac2ea78a-c27c-40de-910c-a08fbf26abc6": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-einblick-6.png",
+            "caption": ""
+          }
+        },
+        "template--16674014036219__54ec3b74-76dd-4229-906a-9ca8990a8ac9-1673018436dad9058e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-studio-13-hamburg.png",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "7b7bd333-3a13-42e0-a5e9-bfc26429c6a6",
+        "06a63d36-e48c-49f6-a514-62484ec6e7b7",
+        "template--16674014036219__54ec3b74-76dd-4229-906a-9ca8990a8ac9-1673018436dad9058e-1",
+        "template--16674014036219__54ec3b74-76dd-4229-906a-9ca8990a8ac9-1673018436dad9058e-2",
+        "6d366130-83c3-432c-9f04-7e76be5ef7a6",
+        "ac2ea78a-c27c-40de-910c-a08fbf26abc6",
+        "template--16674014036219__54ec3b74-76dd-4229-906a-9ca8990a8ac9-1673018436dad9058e-0"
+      ],
+      "settings": {
+        "subheading": "MAYHEM STUDIO",
+        "title": "Ein kleiner Einblick",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "08a123d5-9b80-4e31-89f0-d4cf21191fd0": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/men-of-mayhem-spotify_4a61faec-2581-40f6-9221-01fe1c861a5e.png",
+            "link": "https:\/\/open.spotify.com\/artist\/5wwGH5KpX8KPcXjMjax0Sv?si=d0NGQ2GjSg-NWJR93yzpyQ"
+          }
+        },
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/men-of-mayhem-apple-music.png",
+            "link": "https:\/\/music.apple.com\/de\/artist\/men-of-mayhem\/502185599"
+          }
+        },
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/men-of-mayhem-youtube.png",
+            "link": "https:\/\/www.youtube.com\/@MENOFMAYHEM13"
+          }
+        },
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/men-of-mayhem-deezer.png",
+            "link": "https:\/\/deezer.page.link\/wkJcT5M6USjgqzE38"
+          }
+        },
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/men-of-mayhem-amazon-music.png",
+            "link": "https:\/\/amazon.de\/music\/player\/artists\/B0078KUXNE\/men-of-mayhem?marketplaceId=A1PA6795UKMFR9&musicTerritory=DE&ref=dm_sh_J8Yd1rqY6Z4Eb8oVjH3KlnKop"
+          }
+        },
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-0",
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-1",
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-4",
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-3",
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-2",
+        "template--16674014036219__08a123d5-9b80-4e31-89f0-d4cf21191fd0-16730184706bf4664b-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "MEN OF MAYHEM x RILLA",
+        "title": "Stream it!",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "73401f4e-2340-44e8-bcdb-43b290286581": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16679352271099__73401f4e-2340-44e8-bcdb-43b290286581-16812224672f6574f2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-rilla-song-musik-roll-mit-der-13-cover.png",
+            "tab_label": "Item",
+            "subheading": "MEN OF MAYHEM X RILLA",
+            "title": "Roll mit der 13",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352271099__73401f4e-2340-44e8-bcdb-43b290286581-16812224672f6574f2-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8d6f8d0f-9727-4a1b-8bcb-1f8adc4c349d": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16679352271099__8d6f8d0f-9727-4a1b-8bcb-1f8adc4c349d-167879567876f95f62-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-song-track-rilla-saisonstart.png",
+            "tab_label": "Item",
+            "subheading": "MEN OF MAYHEM x RILLA",
+            "title": "MEN OF MAYHEM",
+            "content": "<p>Der Track zum Saisonstart!<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352271099__8d6f8d0f-9727-4a1b-8bcb-1f8adc4c349d-167879567876f95f62-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d981472a-2b3f-4dae-9b56-3eea68769b76": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16679352271099__d981472a-2b3f-4dae-9b56-3eea68769b76-16812224672f6574f2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-musik-rilla-rollin-13-cover.png",
+            "tab_label": "Item",
+            "subheading": "MEN OF MAYHEM X RILLA",
+            "title": "ROLLIN",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352271099__d981472a-2b3f-4dae-9b56-3eea68769b76-16812224672f6574f2-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1924de49-cc39-467a-88b7-187b9f393e10": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16674014036219__1924de49-cc39-467a-88b7-187b9f393e10-16730184365aab602c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-musik-hagen-stoll-live-fast-sin-hard-cover-rilla.jpg",
+            "tab_label": "Item",
+            "subheading": "MEN OF MAYHEM X RILLA",
+            "title": "LIVE FAST SIN HARD",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "8aecbd47-cf9f-49fd-b953-4b26c04da941": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16674014036219__1924de49-cc39-467a-88b7-187b9f393e10-16730184365aab602c-0",
+        "8aecbd47-cf9f-49fd-b953-4b26c04da941"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "55b72e29-729e-4c5c-9494-f662bbd76d37": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=DN9amkozixc",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3582312e-96e2-44aa-8759-40c8cbeeaf56": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16674014036219__3582312e-96e2-44aa-8759-40c8cbeeaf56-16730184365aab602c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-hagen-stoll-rilla-one-single-1.jpg",
+            "tab_label": "Item",
+            "subheading": "MEN OF MAYHEM x RILLA",
+            "title": "ONE",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16674014036219__3582312e-96e2-44aa-8759-40c8cbeeaf56-16730184365aab602c-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "be32c75e-6284-416e-a4b5-54a30c32ba1f": {
+      "type": "image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "Subheading",
+        "title": "Image with text block",
+        "content": "<p>Use block text to give your customers insight into your brand. Select impactful text that relates to your brand and story.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "right",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6415e50d-61f9-47c9-a6a8-ea67925b5fa4": {
+      "type": "gallery",
+      "blocks": {
+        "template--16679352271099__6415e50d-61f9-47c9-a6a8-ea67925b5fa4-168122275963ad9170-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-rilla-song-musik-roll-mit-der-13-cover.png",
+            "caption": ""
+          }
+        },
+        "template--16679352271099__6415e50d-61f9-47c9-a6a8-ea67925b5fa4-168122275963ad9170-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-song-track-rilla-saisonstart.png",
+            "caption": ""
+          }
+        },
+        "427bcffa-97a2-4b9b-9e9f-586d062da2a7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-musik-rilla-rollin-13-cover.png",
+            "caption": ""
+          }
+        },
+        "template--16679352271099__6415e50d-61f9-47c9-a6a8-ea67925b5fa4-168122275963ad9170-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-musik-hagen-stoll-live-fast-sin-hard-cover-rilla.jpg",
+            "caption": ""
+          }
+        },
+        "cd1b9616-d6a6-4ae4-819a-5512cbbd82f2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-hagen-stoll-rilla-one-single-1.jpg",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352271099__6415e50d-61f9-47c9-a6a8-ea67925b5fa4-168122275963ad9170-0",
+        "template--16679352271099__6415e50d-61f9-47c9-a6a8-ea67925b5fa4-168122275963ad9170-1",
+        "427bcffa-97a2-4b9b-9e9f-586d062da2a7",
+        "template--16679352271099__6415e50d-61f9-47c9-a6a8-ea67925b5fa4-168122275963ad9170-2",
+        "cd1b9616-d6a6-4ae4-819a-5512cbbd82f2"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "UNSERE SINGLES",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a25a8c09-27cc-41ae-a04b-c487fce7fafc",
+    "c355f2ce-354e-4c59-9db0-83779fd1ec45",
+    "8ed3f9ec-fcec-4b9e-a221-9b3d45598247",
+    "e91476b4-f780-44a8-bc41-cea670428b8a",
+    "54ec3b74-76dd-4229-906a-9ca8990a8ac9",
+    "08a123d5-9b80-4e31-89f0-d4cf21191fd0",
+    "73401f4e-2340-44e8-bcdb-43b290286581",
+    "8d6f8d0f-9727-4a1b-8bcb-1f8adc4c349d",
+    "d981472a-2b3f-4dae-9b56-3eea68769b76",
+    "1924de49-cc39-467a-88b7-187b9f393e10",
+    "55b72e29-729e-4c5c-9494-f662bbd76d37",
+    "3582312e-96e2-44aa-8759-40c8cbeeaf56",
+    "be32c75e-6284-416e-a4b5-54a30c32ba1f",
+    "6415e50d-61f9-47c9-a6a8-ea67925b5fa4"
+  ]
+}

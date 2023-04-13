@@ -1,0 +1,195 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16636776807a3063fa": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Where to get it?",
+        "title": "MEN OF MAYHEM IN DEINER NÄHE",
+        "content": "<p>Bei den folgenden Händlern bekommst du das MEN OF MAYHEM Sortiment:<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16636776364374de6f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1663677636000f0a7f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-flagship-store-hamburg-tattoo-13.jpg",
+            "tab_label": "Item",
+            "subheading": "HAMBURG",
+            "title": "MEN OF MAYHEM FLAGSHIP STORE",
+            "content": "<p>CLOTHING & TATTOO<br\/>Barmbeker Markt 29<br\/>22081 Hamburg<\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Montag bis Freitag 12:00 – 19:00 Uhr<br\/>Samstag 11:00 – 17:00 Uhr<\/p><p>Tel: 040 \/ 238 84 98<br\/>Facebook: <a href=\"http:\/\/fb.com\/menofmayhemhamburg\">fb.com\/menofmayhemhamburg<\/a><br\/>Instagram: <a href=\"https:\/\/www.instagram.com\/menofmayhemhamburg\/\" target=\"_blank\">@menofmayhemhamburg<\/a><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663677636000f0a7f-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#de0403",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166376012507a324f6": {
+      "type": "multi-column",
+      "blocks": {
+        "1663760124177780e5-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Bochum",
+            "content": "<p><strong>Crime Culture<br\/><\/strong>Kortumstraße 123<br\/>44787 Bochum<\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Mo-Fr 11:00-20:00 Uhr<br\/>Sa 11:00-19:00 Uhr<\/p><p>Tel: 0234\/54 49 70 38<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1663760124177780e5-1": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DUISBURG",
+            "content": "<p><strong>Crime Culture<br\/><\/strong>Wallstrasse 19<br\/>47051 Duisburg<\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Mo-Fr 11:00-19:00 Uhr<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1663760124177780e5-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "EPPERTSHAUSEN",
+            "content": "<p><strong>BSB Customs<br\/><\/strong>Einsteinstraße 7<br\/>64859 Eppertshausen<\/p><p>Telefon 06071 665 95 00<br\/><a href=\"http:\/\/www.bikershop-bittner.de\/\" title=\"http:\/\/www.bikershop-bittner.de\/\">www.bikershop-bittner.de<\/a><br\/><a href=\"mailto:Info@bikershop-bittner.de\" title=\"mailto:Info@bikershop-bittner.de\">Info@bikershop-bittner.de<\/a><\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Mo, Di, Do, Fr<br\/>09:00-13:00 Uhr<br\/>14:00-18:00 Uhr<br\/>Mi 14:00-18:00 Uhr<br\/>Sa 09:00-14:00 Uhr<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "544823f9-e58f-42dc-9634-62d72f9e4cf0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "#de0403",
+            "title": "Erfurt",
+            "content": "<p><strong>AC12<\/strong><br\/>Motorcycles & More<br\/>Salzstr. 10<br\/>99086 Erfurt<\/p><p>Telefon: 0173 4 12 14 98<br\/><a href=\"http:\/\/www.ac12-motorcycles-and-more.de\/\" target=\"_blank\">www.ac12-motorcycles-and-more.de<\/a><\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Mi. Do. 12:00 – 19:00 Uhr<br\/>Freitag 12:00 – 18:00 Uhr<br\/>Samstag 10:00 – 14:00 Uhr<br\/>sowie nach Vereinbarung<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "8f3cd9a5-e080-42d1-91b3-e508cd50f01e": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "KÜNZELSAU",
+            "content": "<p><strong>MoFa Lounge<br\/><\/strong>Keltergasse 39<br\/>74653 Künzelsau<\/p><p>Telefon 07940 983 58 12<br\/><a href=\"https:\/\/mofalounge.de\/\" title=\"https:\/\/mofalounge.de\/\">www.mofalounge.de<\/a><br\/><a href=\"mailto:info@mofalounge.de\" title=\"mailto:info@mofalounge.de\">info@mofalounge.de<\/a><\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Di, Do, Fr<br\/>10:00-13:00 Uhr<br\/>14:00-18:00 Uhr<br\/>Mi, Sa 10:00-13:00 Uhr<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "aff72fd6-210b-40bc-8587-ba4dd0fcd299": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Landshut",
+            "content": "<p><strong>Jailhouseart<br\/><\/strong>Schirmgasse 266<br\/>84028 Landshut<\/p><p>Telefon 0871 96 67 96 93<br\/><a href=\"http:\/\/www.jailhouseart.de\/\">www.jailhouseart.de<\/a><br\/><a href=\"mailto:mail@jailhouseart.de\">mail@jailhouseart.de<\/a><\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Di. Sa. 11:00-18:00 Uhr<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1663760124177780e5-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "VIERSEN",
+            "content": "<p><strong>Harley Davidson Viersen<br\/><\/strong>Gladbacher Str. 171<br\/>41747 Viersen<\/p><p>Tel. +49 (0) 21 62 9 19 777 – 0<br\/><a href=\"mailto:info@hd-viersen.de\">info@hd-viersen.de<\/a><br\/><a href=\"http:\/\/www.hd-viersen.de\/\">http:\/\/www.hd-viersen.de\/<\/a><\/p><p><strong>Öffnungszeiten:<br\/><\/strong>Mo-Fr 10:00-19:00 Uhr<br\/>Sa 10:00-16:00 Uhr<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1663760124177780e5-0",
+        "1663760124177780e5-1",
+        "1663760124177780e5-3",
+        "544823f9-e58f-42dc-9634-62d72f9e4cf0",
+        "8f3cd9a5-e080-42d1-91b3-e508cd50f01e",
+        "aff72fd6-210b-40bc-8587-ba4dd0fcd299",
+        "1663760124177780e5-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16636776807a3063fa",
+    "16636776364374de6f",
+    "166376012507a324f6"
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-weste-schwarz.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-weste-notorious-thirteen-13-banner_36ba1fcf-1c3a-46fa-9edf-022535de2a49.jpg",
+            "text_position": "bottom_center",
+            "subheading": "",
+            "title": "Mayhem Weste",
+            "button_1_text": "Zur Weste",
+            "button_1_link": "shopify:\/\/products\/weste-mayhem",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#9e0000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "3c3304aa-628c-4a47-84fa-fdb8eda50c2c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-crook-hoody-black-red-dobermann-sr.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-13-crook-hoody-sr-dobermann.jpg",
+            "text_position": "bottom_center",
+            "subheading": "",
+            "title": "Crook Kollektion",
+            "button_1_text": "Zur Kollektion",
+            "button_1_link": "shopify:\/\/collections\/crook",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#9e0000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "e57b8ef6-c8ad-45fa-a4a9-f836646cecbc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-original-crewneck-sand-13.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-original-crewneck-sand-stick-13.jpg",
+            "text_position": "bottom_center",
+            "subheading": "",
+            "title": "Original Kollektion",
+            "button_1_text": "Zur Kollektion",
+            "button_1_link": "shopify:\/\/collections\/original",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ad1817",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "7b68e2e4-02d0-4293-810d-62005cadaa97": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-classic-weiss-schwarz-banner.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-classic-hoody-weiss-schwarz-13_d355eb14-9aa3-4915-a091-368bddeb5f3e.jpg",
+            "text_position": "bottom_center",
+            "subheading": "Jetzt auch in weiss",
+            "title": "Classic Hoody W\/S",
+            "button_1_text": "Zum Hoody",
+            "button_1_link": "shopify:\/\/products\/hoody-mayhem-classic-w-s-mk3",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#9e0000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "18edcc6e-7da4-42aa-8e6a-31eb919c7d24": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-fight-team-shirt-schwarz-weiss.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-fight-team-mma-shirt-black-schwarz-weiss.jpg",
+            "text_position": "bottom_center",
+            "subheading": "t-shirt",
+            "title": "Fight team",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/fight-team",
+            "button_2_text": "Zu den T-Shirts",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#9e0000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-2",
+        "3c3304aa-628c-4a47-84fa-fdb8eda50c2c",
+        "e57b8ef6-c8ad-45fa-a4a9-f836646cecbc",
+        "7b68e2e4-02d0-4293-810d-62005cadaa97",
+        "18edcc6e-7da4-42aa-8e6a-31eb919c7d24"
+      ],
+      "settings": {
+        "section_height": "fit",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1662992160c5c65ccf": {
+      "type": "featured-collections",
+      "blocks": {
+        "166299216057aa2c32-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "neu",
+            "label": "Neu im Shop",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "fc552a2c-6b48-4849-bd0b-88822d79b073": {
+          "type": "collection",
+          "settings": {
+            "collection": "restock",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "bc91fae4-ce04-40bb-b161-695f8686bfca": {
+          "type": "collection",
+          "settings": {
+            "collection": "bestsellers",
+            "label": "Bestseller",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "166299216057aa2c32-0",
+        "fc552a2c-6b48-4849-bd0b-88822d79b073",
+        "bc91fae4-ce04-40bb-b161-695f8686bfca"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "MEN OF MAYHEM",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text-block": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-jersey-banner-full.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-jerseys-banner.jpg",
+        "subheading": "MEN OF MAYHEM",
+        "title": "JERSEY KOLLEKTION",
+        "content": "<p>Checkt die neue Jersey Kollektion. <\/p>",
+        "button_text": "Zu den Jerseys",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "left",
+        "text_alignment": "center",
+        "text_background": "#efeeee",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "disabled": true,
+      "blocks": {
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-shop-the-look-banner-deathwing-t-shirt.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-deathwing-shirt-shop-the-look.jpg",
+            "dot_type": "normal",
+            "product_1": "kopie-von-hoody-mayhem-classic-n-g-mk3",
+            "product_1_horizontal_position": 65,
+            "product_1_vertical_position": 26,
+            "product_1_horizontal_position_mobile": 68,
+            "product_1_vertical_position_mobile": 25,
+            "product_2": "hoody-mayhem-classic-s-r-mk3",
+            "product_2_horizontal_position": 66,
+            "product_2_vertical_position": 62,
+            "product_2_horizontal_position_mobile": 59,
+            "product_2_vertical_position_mobile": 64,
+            "product_3": "",
+            "product_3_horizontal_position": 75,
+            "product_3_vertical_position": 63,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "look-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "label": "Shop the looks"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "product": "lederjacke-rampage",
+        "subheading": "Jacken & Westen",
+        "title": "Zieh dich warm an!",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": true,
+        "show_product_rating": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1661957004d3bdbeee": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=8d2zx15KjGk",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-rilla-hagen-stoll-saint-mayhem-aoebum.jpg",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1661991052f24315eb": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1661991052771cf2ae-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-gutschein-geschenkkarte.png",
+            "tab_label": "Item",
+            "subheading": "Digitale Gutscheine",
+            "title": "MEN OF MAYHEM Gutschein",
+            "content": "<p>Du möchtest jemandem eine Freude bereiten?<br\/>Die Men of Mayhem Geschenkkarten sind das ideale Geschenk für jeden Men of Mayhem Fan! <\/p><p>Erhältlich als 25€, 50€, 75€, 100€ & 150€.<\/p>",
+            "button_text": "Zu den Gutscheinen",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661991052771cf2ae-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "c0c9cc88-61fc-479e-8547-6863a7afde81": {
+          "type": "collection",
+          "settings": {
+            "collection": "classic",
+            "subheading": "",
+            "title": "Classic",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "chopper",
+            "subheading": "",
+            "title": "CHOPPER",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "d28dc7c8-3f84-4ae4-9bce-55f0d376d6d8": {
+          "type": "collection",
+          "settings": {
+            "collection": "crook",
+            "subheading": "",
+            "title": "CROOK",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "d7c59adf-d0f9-4607-8686-2bfed2b5b13a": {
+          "type": "collection",
+          "settings": {
+            "collection": "notorious-thirteen",
+            "subheading": "",
+            "title": "NOTORIOUS",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "one",
+            "subheading": "",
+            "title": "ONE",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "b2b0c716-15f8-46fc-b77a-864465364b2b": {
+          "type": "collection",
+          "settings": {
+            "collection": "fight-team",
+            "subheading": "",
+            "title": "FIGHT TEAM",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "ea695c8e-83c2-4d37-a79d-1c869a2a11f2": {
+          "type": "collection",
+          "settings": {
+            "collection": "original",
+            "subheading": "",
+            "title": "ORIGINAL",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "league",
+            "subheading": "",
+            "title": "LEAGUE",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "c0c9cc88-61fc-479e-8547-6863a7afde81",
+        "collection-1",
+        "d28dc7c8-3f84-4ae4-9bce-55f0d376d6d8",
+        "d7c59adf-d0f9-4607-8686-2bfed2b5b13a",
+        "collection-2",
+        "b2b0c716-15f8-46fc-b77a-864465364b2b",
+        "ea695c8e-83c2-4d37-a79d-1c869a2a11f2",
+        "collection-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "MEN OF MAYHEM",
+        "title": "FEATURED KOLLEKTIONEN",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "blog": "mayhem-blog",
+        "subheading": "Stay up-to-date",
+        "title": "Blog posts",
+        "articles_count": 3,
+        "stack_mobile": false,
+        "show_category": false,
+        "show_excerpt": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-newsletter-banner-dog.jpg",
+        "subheading": "NEWSLETTER ABBONIEREN",
+        "content": "<p>Nichts mehr verpassen und flott hier angemeldet!<\/p><p>Ich bin damit einverstanden, dass MEN OF MAYHEM mich regelmäßig per E-Mail Newsletter über Produkte & Dienstleistungen informiert. Meine Einwilligung kann ich jederzeit kostenfrei per Link im Newsletter oder per Mitteilung an <a href=\"mailto:service@men-of-mayhem.com\">service@men-of-mayhem.com<\/a> für die Zukunft widerrufen.<\/p><p>Weitere Infos dazu findest du hier: <a href=\"\/pages\/datenschutzerklarung\" target=\"_blank\" title=\"Datenschutzerklärung\">Datenschutzerklärung<\/a><\/p>",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "342811a0-c27a-4893-8d9d-255618e73e1f": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "template--16679352008955__342811a0-c27a-4893-8d9d-255618e73e1f-16801918011922f9f2-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "outlet",
+            "label": "Men",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "f27bc1e8-fd4f-492a-aa8e-04bd57899b50": {
+          "type": "collection",
+          "settings": {
+            "collection": "outlet-1",
+            "label": "Women",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352008955__342811a0-c27a-4893-8d9d-255618e73e1f-16801918011922f9f2-0",
+        "f27bc1e8-fd4f-492a-aa8e-04bd57899b50"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "OUTLET",
+        "content": "",
+        "products_count": 130,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e7831f79-ad8a-4af5-8166-4d0a8bba67f3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "outlet",
+            "subheading": "",
+            "title": "MEN",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "outlet-1",
+            "subheading": "",
+            "title": "WOMEN",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-3": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-5": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-0",
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-1",
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-2",
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-3",
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-4",
+        "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "Mach einen Schnapp in unserem",
+        "title": "OUTLET",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1661991925da4b39cb": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-chopper-image-harley.png",
+        "subheading": "NEVER FUCK A FUCKER.",
+        "title": "THE NOTORIOUS THIRTEEN COMPANY.",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Kostenloser Versand",
+            "content": "<p>Ab 60€ MBW versenden wir kostenlos innerhalb Deutschlands.<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Fragen?",
+            "content": "<p>Melde dich bei uns - wir helfen dir gerne weiter. Telefon: 040 \/ 23 96 98 85<br\/>[Mo - Fr 10-17 Uhr] <\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-address",
+            "custom_icon_width": 50,
+            "title": "MEN OF MAYHEM Flagship Store",
+            "content": "<p>In unserem Hamburger Flagship Store kannst du dich von unserer Qualität überzeugen. <\/p>"
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Kein Bock zu quatschen?",
+            "content": "<p>Schreib uns einfach eine eMail mit deinem Anliegen. Wir mailden uns dann zurück.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ca35a4fb-6be5-4720-b4d3-1e934ea7641b": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-3": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-5": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-1",
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-2",
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-3",
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-4",
+        "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "Wieder vorrätig!",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "9025db87-7f01-41cd-84d9-15a180a6d54a": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-0",
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-1",
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-2",
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-3",
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-4",
+        "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "Subheading",
+        "title": "Collection list",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1662992160c5c65ccf",
+    "image-with-text-block",
+    "shop-the-look",
+    "featured-product",
+    "1661957004d3bdbeee",
+    "1661991052f24315eb",
+    "collection-list",
+    "blog-posts",
+    "newsletter",
+    "342811a0-c27a-4893-8d9d-255618e73e1f",
+    "e7831f79-ad8a-4af5-8166-4d0a8bba67f3",
+    "testimonials",
+    "1661991925da4b39cb",
+    "text-with-icons",
+    "ca35a4fb-6be5-4720-b4d3-1e934ea7641b",
+    "9025db87-7f01-41cd-84d9-15a180a6d54a"
+  ]
+}

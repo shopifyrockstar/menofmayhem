@@ -1,0 +1,232 @@
+{
+  "sections": {
+    "16619947148087ecb4": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-cap-banner-13.jpg",
+        "subheading": "accessoires",
+        "title": "Caps",
+        "content": "<p><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_image": false,
+        "show_collection_title": true,
+        "show_collection_description": false,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "987e8ae3-2bfd-44d8-9fc7-870146b5ca7e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "subheading": "MEN OF MAYHEM",
+            "title": "Herrenbekleidung",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_left",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "987e8ae3-2bfd-44d8-9fc7-870146b5ca7e"
+      ],
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 100,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "medium"
+      }
+    },
+    "16631076085a8330ba": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "16631076084379b702-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "label": "Snapback",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "2f24b82d-6097-4d30-93a4-45370c376a9d": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "label": "Basecap",
+            "button_text": "Basecap",
+            "button_url": ""
+          }
+        },
+        "815ca152-ecda-49db-9db2-9f63490e18e8": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "label": "Flex Cap",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16631076084379b702-0",
+        "2f24b82d-6097-4d30-93a4-45370c376a9d",
+        "815ca152-ecda-49db-9db2-9f63490e18e8"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Shoppe nach modell",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1662035512b0b4d696": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-cap-detail-banner-13.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-caps-detail-notorious-thirteen-13.jpg",
+        "subheading": "It's all about the details",
+        "title": "MAYHEM Caps",
+        "content": "<p>MEN OF MAYHEM Caps - erhältlich als Flex Cap, Snapback Cap und Basecap. Die Formen bieten etwas für jeden Geschmack und sind mit flachem oder gebogenem Schirm erhältlich. Unisex & in verschiedenen Größen erhältlich.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "right",
+        "text_alignment": "center",
+        "text_background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1662557716a0e61ef2": {
+      "type": "timeline",
+      "blocks": {
+        "166255771634b3a02e-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-base-cap-black-banner_19ed1d5d-0d7a-4f6e-9dd4-d29ab1772e0d.jpg",
+            "label": "Snapback",
+            "title": "Snapback",
+            "content": "<p>Schirm: Gerader Schirm<br\/>Verschluss: Strap-Verschluss<br\/>Größe: One size fits all<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "166255771634b3a02e-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-base-cap-black-banner_19ed1d5d-0d7a-4f6e-9dd4-d29ab1772e0d.jpg",
+            "label": "Basecap",
+            "title": "Basecap",
+            "content": "<p>Schirm: Gebogener Schirm Verschluss: Strap-Verschluss<br\/>Größe: One size fits all<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "166255771634b3a02e-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-base-cap-black-banner_19ed1d5d-0d7a-4f6e-9dd4-d29ab1772e0d.jpg",
+            "label": "Flex Cap",
+            "title": "Flex Cap",
+            "content": "<p>Schirm: Gebogener Schirm<br\/>Fit: Flexibler Bund<br\/>Größen:<br\/>S-M ab ca. 56,5 cm Kopfumfang<br\/>L-XL ab ca. 58,5 cm Kopfumfang<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166255771634b3a02e-0",
+        "166255771634b3a02e-1",
+        "166255771634b3a02e-2"
+      ],
+      "settings": {
+        "subheading": "Unsere Modelle",
+        "title": "Kurz erklärt",
+        "text_position": "middle",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166205280901ecca75": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-caps-banner.jpg",
+        "subheading": "",
+        "title": "",
+        "content": "<p><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "rgba(0,0,0,0)",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "16619947148087ecb4",
+    "collection-banner",
+    "main",
+    "16631076085a8330ba",
+    "1662035512b0b4d696",
+    "1662557716a0e61ef2",
+    "166205280901ecca75"
+  ]
+}

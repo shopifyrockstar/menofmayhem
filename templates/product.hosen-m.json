@@ -1,0 +1,122 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "size_chart_page": "{{ product.metafields.custom.gr_entabelle.value }}"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": true,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "hilfe-produktdetail",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "cd77b293-f6cd-46b0-86b5-1746f4b63257": {
+          "type": "content",
+          "settings": {
+            "title": "Material",
+            "content": "",
+            "page": "{{ product.metafields.custom.material.value }}"
+          }
+        },
+        "618c589a-5845-4386-8e95-ddbc8c5a8bdf": {
+          "type": "content",
+          "settings": {
+            "title": "Pflegehinweise",
+            "content": "<p>gf<\/p>",
+            "page": "{{ product.metafields.custom.pflegehinweise.value }}"
+          }
+        },
+        "2f3e5a80-15a4-4a04-920e-858a86fc4e0c": {
+          "type": "trust",
+          "settings": {
+            "icon_1": "picto-delivery-truck",
+            "title_1": "Zahlung & Versand",
+            "content_1": "<p>Es gelten folgende Bedingungen:<\/p><p><strong>Versandbedingungen<\/strong><\/p><p>Die Lieferung erfolgt im Inland (Deutschland) und in die nachstehenden Länder: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Monaco, Niederlande, Polen, Rumänien, Schweden, Slowakai, Slowenien, Spanien, Tschechien, Ungarn, Groß Britanien, Zypern, Östereich.<\/p><p><strong>Versandkosten<\/strong> (inklusive gesetzliche Mehrwertsteuer)<\/p><p><strong>Lieferungen im Inland (Deutschland): <\/strong><\/p><p>Wir berechnen die Versandkosten pauschal mit 4,90 € pro Bestellung.<\/p><p>Ab einem Bestellwert von 60,00 € liefern wir versandkostenfrei.<\/p><p><strong>Lieferungen ins Ausland:<\/strong><\/p><p>Wir berechnen die Versandkosten ins Ausland pauschal wie folgt:<\/p><p>15,90€ in folgende Länder:<br\/>Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Monaco, Niederlande, Polen, Rumänien, Schweden, Slowakai, Slowenien, Spanien, Tschechien, Ungarn, Groß Britanien, Zypern, Östereich<\/p><p><strong>Lieferfristen<\/strong><\/p><p>Soweit im jeweiligen Angebot keine andere Frist angegeben ist, erfolgt die Lieferung der Ware im Inland (Deutschland) innerhalb von 2 – 5 Tagen, bei Auslandslieferungen innerhalb von 5 – 10 Tagen nach Vertragsschluss (bei vereinbarter Vorauszahlung nach dem Zeitpunkt Ihrer Zahlungsanweisung).<br\/>Beachten Sie, dass an Sonn- und Feiertagen keine Zustellung erfolgt.<br\/>Haben Sie Artikel mit unterschiedlichen Lieferzeiten bestellt, versenden wir die Ware in einer gemeinsamen Sendung, sofern wir keine abweichenden Vereinbarungen mit Ihnen getroffen haben. Die Lieferzeit bestimmt sich in diesem Fall nach dem Artikel mit der längsten Lieferzeit den Sie bestellt haben.<\/p><p><strong>Zahlungsbedingungen<\/strong><\/p><p><strong>Bei Lieferungen im Inland (Deutschland) haben Sie folgende Zahlungsmöglichkeiten:<\/strong><\/p><p><strong>–  <\/strong>Vorkasse per Überweisung<br\/><strong>–<\/strong>  Zahlung per PayPal<br\/><strong>–  <\/strong>Zahlung per Sofort<\/p><p><strong>Bei Lieferungen ins Ausland haben Sie folgende Zahlungsmöglichkeiten:<\/strong><\/p><p><strong>–  <\/strong>Vorkasse per Überweisung<br\/><strong>–<\/strong>  Zahlung per PayPal<br\/><strong>–  <\/strong>Zahlung per Sofort<br\/><br\/>Bei Fragen finden Sie unsere Kontaktdaten im Impressum.<\/p>",
+            "icon_2": "picto-chat",
+            "title_2": "",
+            "content_2": "",
+            "icon_3": "picto-secure-payment",
+            "title_3": "",
+            "content_3": ""
+          }
+        },
+        "5ae8c17f-8387-4226-b92f-61fa369535b9": {
+          "type": "featured_products",
+          "settings": {
+            "title": "Passend dazu",
+            "products": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}"
+          }
+        },
+        "79394965-f7f9-4f82-be54-ab493b4803b1": {
+          "type": "content",
+          "settings": {
+            "title": "",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "cd77b293-f6cd-46b0-86b5-1746f4b63257",
+        "618c589a-5845-4386-8e95-ddbc8c5a8bdf",
+        "2f3e5a80-15a4-4a04-920e-858a86fc4e0c",
+        "5ae8c17f-8387-4226-b92f-61fa369535b9",
+        "79394965-f7f9-4f82-be54-ab493b4803b1"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content"
+  ]
+}

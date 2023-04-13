@@ -1,0 +1,448 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "collections_to_show": "selected",
+        "show_collection_title": true
+      }
+    },
+    "7c35dbe9-daac-4bc5-ad34-c55abaf98be6": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "MEN OF MAYHEM",
+        "title": "KOLLEKTIONEN",
+        "content": "<p>Alle MEN OF MAYHEM Kollektionen im Überblick.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d13010c0-fc22-4edb-82cc-5c9fc6fa50e7": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "crook",
+            "subheading": "",
+            "title": "CROOK",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "league",
+            "subheading": "",
+            "title": "LEAGUE",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "classic",
+            "subheading": "",
+            "title": "CLASSIC",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 18
+          }
+        },
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "one",
+            "subheading": "",
+            "title": "ONE",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "chopper",
+            "subheading": "",
+            "title": "CHOPPER",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 18
+          }
+        },
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "notorious-thirteen",
+            "subheading": "",
+            "title": "NOTORIOUS THIRTEEN",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 18
+          }
+        },
+        "ed5a1b55-d325-41ae-9a52-e3f4944f57e4": {
+          "type": "collection",
+          "settings": {
+            "collection": "original",
+            "subheading": "",
+            "title": "ORIGINAL",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 18
+          }
+        },
+        "f1bd6a7b-d853-4d63-908b-a7b4acdc66ac": {
+          "type": "collection",
+          "settings": {
+            "collection": "women",
+            "subheading": "",
+            "title": "WOMEN",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 18
+          }
+        }
+      },
+      "block_order": [
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-0",
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-1",
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-2",
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-3",
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-4",
+        "template--16577298366715__d13010c0-fc22-4edb-82cc-5c9fc6fa50e7-1669642488ea58f01e-5",
+        "ed5a1b55-d325-41ae-9a52-e3f4944f57e4",
+        "f1bd6a7b-d853-4d63-908b-a7b4acdc66ac"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8cd0dfbe-f9d8-4467-87eb-eaa569d7f160": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "template--16577298366715__8cd0dfbe-f9d8-4467-87eb-eaa569d7f160-1669642489d4094211-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-notorious-thirteen-weiss-schwarz-motorrad.jpg",
+            "caption": "<p>NOTORIOUS THIRTEEN<\/p>"
+          }
+        },
+        "template--16577298366715__8cd0dfbe-f9d8-4467-87eb-eaa569d7f160-1669642489d4094211-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-original-banner-sand-crewneck.jpg",
+            "caption": "<p>ORIGINAL<\/p>"
+          }
+        },
+        "template--16577298366715__8cd0dfbe-f9d8-4467-87eb-eaa569d7f160-1669642489d4094211-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-classic-kollektion.jpg",
+            "caption": "<p>CLASSIC<\/p>"
+          }
+        },
+        "57cf3684-6389-4a71-99f7-0c64bea16b55": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-chopper-hoody-rot-schwarz-harley-banner.jpg",
+            "caption": "<p>CHOPPER<\/p>"
+          }
+        },
+        "f5677200-3e19-4ea6-90a9-f1dbb9d4f79d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-crook-hoody-schwarz-rot.jpg",
+            "caption": "<p>CROOK<\/p>"
+          }
+        },
+        "d23f07e9-3cd4-4013-a81d-c227a5171613": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-classic-hoody-jacke-rot-schwarz.jpg",
+            "caption": "<p>CLASSIC<\/p>"
+          }
+        },
+        "e076df27-b8f9-4f12-8385-fe8f7440f7b4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-original-crewneck-braun-banner_54452693-a003-4d64-88db-6d116209bda8.jpg",
+            "caption": "<p>Original<\/p>"
+          }
+        },
+        "6706a8a3-6f52-4d9f-a9b6-69dfb16cca99": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-notorious-thirteen-kollektion-schwarz-rot.jpg",
+            "caption": "<p>NOTORIOUS THIRTEEN<\/p>"
+          }
+        },
+        "4f386172-8d1d-47ab-b15e-8ee12ea3a05c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-crook-hoody-rot-weiss.jpg",
+            "caption": "<p>CROOK<\/p>"
+          }
+        },
+        "ad985bdd-0dc0-427e-9464-f3337827d090": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-notorious-thirteen-schwarz-rot-stick_690623bc-6962-4d94-bad8-280441045049.jpg",
+            "caption": "<p>NOTORIOUS THIRTEEN<\/p>"
+          }
+        },
+        "8c981520-b33c-424f-9f1f-fabe5eb9f139": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-league-crewneck-banner.jpg",
+            "caption": "<p>LEAGUE<\/p>"
+          }
+        },
+        "c84d0685-0fbd-4487-a664-816133741e74": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-classic-t-shirt-schwarz-rot.jpg",
+            "caption": "<p>CLASSIC<\/p>"
+          }
+        },
+        "6c8c7dcf-93ac-4e99-9ba4-4dd1fdd93896": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-apollo-dobermann-dog-13.jpg",
+            "caption": "<p>Just here to say hi!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16577298366715__8cd0dfbe-f9d8-4467-87eb-eaa569d7f160-1669642489d4094211-0",
+        "template--16577298366715__8cd0dfbe-f9d8-4467-87eb-eaa569d7f160-1669642489d4094211-1",
+        "template--16577298366715__8cd0dfbe-f9d8-4467-87eb-eaa569d7f160-1669642489d4094211-2",
+        "57cf3684-6389-4a71-99f7-0c64bea16b55",
+        "f5677200-3e19-4ea6-90a9-f1dbb9d4f79d",
+        "d23f07e9-3cd4-4013-a81d-c227a5171613",
+        "e076df27-b8f9-4f12-8385-fe8f7440f7b4",
+        "6706a8a3-6f52-4d9f-a9b6-69dfb16cca99",
+        "4f386172-8d1d-47ab-b15e-8ee12ea3a05c",
+        "ad985bdd-0dc0-427e-9464-f3337827d090",
+        "8c981520-b33c-424f-9f1f-fabe5eb9f139",
+        "c84d0685-0fbd-4487-a664-816133741e74",
+        "6c8c7dcf-93ac-4e99-9ba4-4dd1fdd93896"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Lass dich inspirieren",
+        "show_arrows": false,
+        "background": "#151515",
+        "text_color": "#ffffff"
+      }
+    },
+    "52528a32-6b11-4614-95ca-0c50acb7875f": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16577298366715__52528a32-6b11-4614-95ca-0c50acb7875f-1669642488afef9fd1-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "caps-beanies-tucher",
+            "label": "CAPS",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "b03dd6b1-4a6f-406c-84f4-a789da9e42ed": {
+          "type": "collection",
+          "settings": {
+            "collection": "taschen",
+            "label": "TASCHEN",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "96a8aa89-699d-4188-88e5-4d3b99858fe6": {
+          "type": "collection",
+          "settings": {
+            "collection": "bandanas-tubes",
+            "label": "BANDANAS",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16577298366715__52528a32-6b11-4614-95ca-0c50acb7875f-1669642488afef9fd1-0",
+        "b03dd6b1-4a6f-406c-84f4-a789da9e42ed",
+        "96a8aa89-699d-4188-88e5-4d3b99858fe6"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Die passenden Accessoires",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "243b7cb2-cde7-44cd-a8eb-6c5652c41c5f": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "SHOP THE LOOK",
+        "content": "<p>Lass dich inspirieren.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "5c956870-9ed3-4dd7-89d2-72f2818a35ff": {
+      "type": "shop-the-look",
+      "blocks": {
+        "template--16577298366715__5c956870-9ed3-4dd7-89d2-72f2818a35ff-16696453415462f44e-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-shop-the-look-lederjacke.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-lederjacke-mobile-banner.jpg",
+            "dot_type": "inverted",
+            "product_1": "lederjacke-rampage",
+            "product_1_horizontal_position": 20,
+            "product_1_vertical_position": 36,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 46,
+            "product_2_vertical_position": 64,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 62,
+            "product_3_vertical_position": 50,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "59b3a43a-f696-4a94-9a91-1b95a89152db": {
+          "type": "look",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-musik-hagen-stoll-live-fast-sin-hard-cover-rilla.jpg",
+            "dot_type": "normal",
+            "product_1": "",
+            "product_1_horizontal_position": 30,
+            "product_1_vertical_position": 30,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "template--16577298366715__5c956870-9ed3-4dd7-89d2-72f2818a35ff-16696453415462f44e-0",
+        "59b3a43a-f696-4a94-9a91-1b95a89152db"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": ""
+      }
+    },
+    "72045508-7d3c-467e-b311-2105eaaf6443": {
+      "type": "shop-the-look",
+      "disabled": true,
+      "blocks": {
+        "template--16577298366715__72045508-7d3c-467e-b311-2105eaaf6443-16706050772a92c73e-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men-of-mayhem-lederhandschuhe-schwarz-13-praegung-motorrad.jpg",
+            "dot_type": "inverted",
+            "product_1": "",
+            "product_1_horizontal_position": 41,
+            "product_1_vertical_position": 41,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 46,
+            "product_2_vertical_position": 64,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 62,
+            "product_3_vertical_position": 50,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "template--16577298366715__72045508-7d3c-467e-b311-2105eaaf6443-16706050772a92c73e-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": "Shop the looks"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7c35dbe9-daac-4bc5-ad34-c55abaf98be6",
+    "d13010c0-fc22-4edb-82cc-5c9fc6fa50e7",
+    "8cd0dfbe-f9d8-4467-87eb-eaa569d7f160",
+    "52528a32-6b11-4614-95ca-0c50acb7875f",
+    "243b7cb2-cde7-44cd-a8eb-6c5652c41c5f",
+    "5c956870-9ed3-4dd7-89d2-72f2818a35ff",
+    "72045508-7d3c-467e-b311-2105eaaf6443"
+  ]
+}

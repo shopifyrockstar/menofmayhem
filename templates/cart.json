@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "blocks": {
+        "totals": {
+          "type": "totals",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "totals"
+      ],
+      "settings": {
+        "show_payment_methods": true,
+        "show_shipping_estimator": false,
+        "shipping_estimator_default_country": "Deutschland",
+        "empty_button_link": "shopify:\/\/collections\/all"
+      }
+    },
+    "cart-recommendations": {
+      "type": "cart-recommendations",
+      "settings": {
+        "title": "Hast du die gesehen?"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cart-recommendations"
+  ]
+}

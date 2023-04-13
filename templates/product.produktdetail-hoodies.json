@@ -1,0 +1,306 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": "{{ product.metafields.custom.gr_entabelle.value }}"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#b60c0c",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#cacaca",
+            "buy_now_button_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": true,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "618c589a-5845-4386-8e95-ddbc8c5a8bdf": {
+          "type": "content",
+          "settings": {
+            "title": "Größentabelle",
+            "content": "",
+            "page": "copy-of-grossentabelle-t-shirt"
+          }
+        },
+        "2f3e5a80-15a4-4a04-920e-858a86fc4e0c": {
+          "type": "trust",
+          "settings": {
+            "icon_1": "picto-delivery-truck",
+            "title_1": "Zahlung & Versand",
+            "content_1": "<p><strong>Versandbedingungen<\/strong><\/p><p>Die Lieferung erfolgt im Inland (Deutschland) und in die nachstehenden Länder: Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Monaco, Niederlande, Polen, Rumänien, Schweden, Slowakai, Slowenien, Spanien, Tschechien, Ungarn, Groß Britanien, Zypern, Östereich.<\/p><p><strong>Versandkosten<\/strong> (inklusive gesetzliche Mehrwertsteuer)<\/p><p><strong>Lieferungen im Inland (Deutschland): <\/strong><\/p><p>Wir berechnen die Versandkosten pauschal mit 4,90 € pro Bestellung.<\/p><p>Ab einem Bestellwert von 60,00 € liefern wir versandkostenfrei.<\/p><p><strong>Lieferungen ins Ausland:<\/strong><\/p><p>Wir berechnen die Versandkosten ins Ausland pauschal wie folgt:<\/p><p>15,90€ in folgende Länder:<br\/>Belgien, Bulgarien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Monaco, Niederlande, Polen, Rumänien, Schweden, Slowakai, Slowenien, Spanien, Tschechien, Ungarn, Groß Britanien, Zypern, Östereich<\/p><p><strong>Lieferfristen<\/strong><\/p><p>Soweit im jeweiligen Angebot keine andere Frist angegeben ist, erfolgt die Lieferung der Ware im Inland (Deutschland) innerhalb von 2 – 5 Tagen, bei Auslandslieferungen innerhalb von 5 – 10 Tagen nach Vertragsschluss (bei vereinbarter Vorauszahlung nach dem Zeitpunkt Ihrer Zahlungsanweisung).<br\/>Beachten Sie, dass an Sonn- und Feiertagen keine Zustellung erfolgt.<br\/>Haben Sie Artikel mit unterschiedlichen Lieferzeiten bestellt, versenden wir die Ware in einer gemeinsamen Sendung, sofern wir keine abweichenden Vereinbarungen mit Ihnen getroffen haben. Die Lieferzeit bestimmt sich in diesem Fall nach dem Artikel mit der längsten Lieferzeit den Sie bestellt haben.<\/p><p><strong>Zahlungsbedingungen<\/strong><\/p><p><strong>Bei Lieferungen im Inland (Deutschland) haben Sie folgende Zahlungsmöglichkeiten:<\/strong><\/p><p><strong>–  <\/strong>Vorkasse per Überweisung<br\/><strong>–<\/strong>  Zahlung per PayPal<br\/><strong>–  <\/strong>Zahlung per Sofort<\/p><p><strong>Bei Lieferungen ins Ausland haben Sie folgende Zahlungsmöglichkeiten:<\/strong><\/p><p><strong>–  <\/strong>Vorkasse per Überweisung<br\/><strong>–<\/strong>  Zahlung per PayPal<br\/><strong>–  <\/strong>Zahlung per Sofort<\/p>",
+            "icon_2": "picto-chat",
+            "title_2": "Fragen?",
+            "content_2": "<p>Melde dich bei uns - wir helfen dir gerne weiter. <\/p><p><strong>Telefon: 040 \/ 23 96 98 85<br\/><\/strong>[Mo.-Fr. 10-17 Uhr]<\/p><p><strong>service@men-of-mayhem.com<\/strong><\/p>",
+            "icon_3": "picto-secure-payment",
+            "title_3": "",
+            "content_3": ""
+          }
+        },
+        "74bb482f-8770-49a1-a9d5-8982df3af8cc": {
+          "type": "content",
+          "settings": {
+            "title": "Pflegehinweise",
+            "content": "",
+            "page": "{{ product.metafields.custom.pflegehinweise.value }}"
+          }
+        },
+        "ffb92276-3bfd-4e4d-8dba-9feeb8e6155a": {
+          "type": "content",
+          "settings": {
+            "title": "Qualität",
+            "content": "",
+            "page": "{{ product.metafields.custom.material.value }}"
+          }
+        },
+        "5ae8c17f-8387-4226-b92f-61fa369535b9": {
+          "type": "featured_products",
+          "settings": {
+            "title": "Passend dazu",
+            "products": [
+              "kopie-von-hoody-mayhem-classic-n-g-mk3",
+              "hoody-mayhem-classic-s-r-mk3"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "618c589a-5845-4386-8e95-ddbc8c5a8bdf",
+        "2f3e5a80-15a4-4a04-920e-858a86fc4e0c",
+        "74bb482f-8770-49a1-a9d5-8982df3af8cc",
+        "ffb92276-3bfd-4e4d-8dba-9feeb8e6155a",
+        "5ae8c17f-8387-4226-b92f-61fa369535b9"
+      ],
+      "settings": {
+      }
+    },
+    "16623917579b91cf89": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-detail-shot-embroidery-white-on-black-banner.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/men-of-mayhem-detail-embroidery-logo.jpg",
+        "subheading": "IT'S ALL ABOUT THE DETAILS",
+        "title": "HOODIES",
+        "content": "<p>MEN OF MAYHEM Hoodies sind aus weichem und zugleich festen Stoff gefertigt und bieten höchsten Tragekomfort. Die Innenseite ist angerauht, was für ein angenehmes Gefühl auf der Haut sorgt. Veredelt mit geprägten Ösen & Metallkappen an den Kapuzenbändern und etlichen Details.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "right",
+        "text_alignment": "center",
+        "text_background": "#f1f1f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16623906895c412d0e": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "1662390689a16ec658-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "hoodies",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662390689a16ec658-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Könnte dir gefallen",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1662389343067c4b71": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "1662389343ec130d6a-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "men-of-mayhem-classic-kollektion",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662389343ec130d6a-0"
+      ],
+      "settings": {
+        "subheading": "Erhältlich in folgenden Farben",
+        "title": "",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1662420448e5b11afb": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "subheading": "",
+        "title": "Recently viewed",
+        "products_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166238944099c25d30": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/men-of-mayhem-classic-hoody-schwarz-rot-harley-banner.jpg",
+        "subheading": "MEN OF MAYHEM",
+        "title": "NEVER FUCK A FUCKER.",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "16624165229868573d": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "1662416522f7741f93-0": {
+          "type": "category",
+          "settings": {
+            "title": "LIEFERUNG & VERSAND"
+          }
+        },
+        "1662416522f7741f93-1": {
+          "type": "question",
+          "settings": {
+            "title": "In welche Länder liefert Men of Mayhem?",
+            "answer": "<p>Du möchtest wissen, in welche Länder Men of Mayhem liefert?<\/p><p>Alle Informationen dazu findest du <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/versand__lieferung\/\">hier<\/a>.<\/p>"
+          }
+        },
+        "1662416522f7741f93-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie lange dauert die Lieferung?",
+            "answer": "<p>In der Regel dauert der Versand innerhalb Deutschlands 1-5 Werktage. Eine genauere Einschätzung der Lieferzeit deiner Bestellung findest du in der Sendungsverfolgung aus der Versandbestätigung. Die bekommst du von uns per E-Mail, sobald deine Bestellung auf dem Weg zu dir ist. Weitere Informationen zu Lieferzeiten findest du <a href=\"https:\/\/newclone.men-of-mayhem.com\/newclone2021\/zahlung-und-versand\/\">hier<\/a>.<\/p>"
+          }
+        },
+        "47299a1e-1bea-4572-9a9d-14b04cf29db1": {
+          "type": "question",
+          "settings": {
+            "title": "Was kostet der Versand?",
+            "answer": "<p>Ab einem Mindestbestellwert von 60€ liefern wir versandkostenfrei innerhalb von Deutschland. Unter einem Bestellwert von 60€ berechnen wir pauschal 4,90€. Alle Infos dazu auf hier: <a href=\"\/pages\/zahlung-und-versand\" title=\"Zahlung und Versand\">Versandkosten<\/a><\/p>"
+          }
+        },
+        "1662416522f7741f93-3": {
+          "type": "category",
+          "settings": {
+            "title": "Retoure"
+          }
+        },
+        "1662416522f7741f93-4": {
+          "type": "question",
+          "settings": {
+            "title": "Wer trägt die Kosten?",
+            "answer": "<p>Wir übernehmen generell die Versandkosten bei Defekten und Fehllieferungen.<\/p><p>Bei einfachem Größentausch übernehmen wir keine Versandkosten für die Rücksendung. Die entstehenden Versandkosten der erneuten Lieferung der Austauschartikel werden von uns getragen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662416522f7741f93-0",
+        "1662416522f7741f93-1",
+        "1662416522f7741f93-2",
+        "47299a1e-1bea-4572-9a9d-14b04cf29db1",
+        "1662416522f7741f93-3",
+        "1662416522f7741f93-4"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "16623917579b91cf89",
+    "16623906895c412d0e",
+    "1662389343067c4b71",
+    "1662420448e5b11afb",
+    "166238944099c25d30",
+    "16624165229868573d"
+  ]
+}
