@@ -4623,8 +4623,7 @@
       }
       if (!MediaFeatures.prefersReducedMotion()) {
         const navItems = Array.from(this.querySelectorAll('.mobile-nav__item[data-level="1"]')), effects = [];
-        effects.push(new ParallelEffect(navItems.map((item, index) => {
-          console.log("item button clicked");
+        effects.push(new ParallelEffect(navItems.map((item, index) => {          
           return new CustomKeyframeEffect(item, {
             opacity: [0, 1],
             transform: ["translateX(-40px)", "translateX(0)"]
