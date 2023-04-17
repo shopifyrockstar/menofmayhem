@@ -44,7 +44,10 @@
                 {%- capture image_link_setting -%}image_{{ i }}_link{%- endcapture -%}
 
                 {%- capture image_push -%}
+                  {% comment %}
                   <img class="mobile-nav__image" loading="lazy" sizes="270px" {% render 'image-attributes', image: mega_menu_block.settings[image_setting], sizes: '270,540,810' %}>
+                  {% endcomment %}
+                  <img class="mobile-nav__image" src="{{ mega_menu_block.settings[image_setting] | img_url: '120x' }}">
 
                   {%- if mega_menu_block.settings[image_heading_setting] != '' -%}
                     <p class="mobile-nav__image-heading heading heading--xsmall">{{ mega_menu_block.settings[image_heading_setting] }}</p>

@@ -1088,7 +1088,7 @@
             keyframes["opacity"] = this.open ? [0, 0] : [0, 1];
           }
           this.animate(keyframes, {
-            duration: 500,
+            duration: 0,
             direction: this.open ? "normal" : "reverse",
             easing: "cubic-bezier(0.75, 0, 0.175, 1)"
           }).onfinish = () => {
@@ -1099,8 +1099,8 @@
               opacity: [0, 1],
               transform: ["translateY(10px)", "translateY(0)"]
             }, {
-              duration: 250,
-              delay: 250,
+              duration: 0,
+              delay: 0,
               easing: "cubic-bezier(0.75, 0, 0.175, 1)"
             });
           }
