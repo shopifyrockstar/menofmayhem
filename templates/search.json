@@ -19,16 +19,6 @@
     "1675867087bf801e42": {
       "type": "apps",
       "disabled": true,
-      "blocks": {
-        "26de2b36-d1c8-4175-9c2e-e6d76074cead": {
-          "type": "shopify:\/\/apps\/smart-search-product-filter\/blocks\/product-list\/45de52d0-b602-4c6e-aa3b-61524a251869",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "26de2b36-d1c8-4175-9c2e-e6d76074cead"
-      ],
       "settings": {
         "include_horizontal_margins": false,
         "include_vertical_margins": false
