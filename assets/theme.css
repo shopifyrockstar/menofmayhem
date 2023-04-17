@@ -14951,3 +14951,11 @@ shopify-payment-terms {
 .mobile-nav__item #mobile-menu-2{
   transition: unset !important;
 }
+.mobile-nav__item .collapsible{
+  display: none;
+  height:auto;
+}
+.mobile-nav__item .collapsible[open]{
+  display: block;
+  height:auto;
+}
