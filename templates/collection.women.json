@@ -134,7 +134,7 @@
         "7cc38435-9316-4602-a71e-8459a83eb9d8": {
           "type": "collection",
           "settings": {
-            "collection": "outlet-1",
+            "collection": "women-outlet",
             "subheading": "",
             "title": "Outlet",
             "link_text": "",
@@ -257,7 +257,6 @@
     },
     "1661955577555bc7fb": {
       "type": "featured-collections",
-      "disabled": true,
       "blocks": {
         "166195557796371ca2-0": {
           "type": "collection",
@@ -272,6 +271,7 @@
       "block_order": [
         "166195557796371ca2-0"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "unsere beliebtesten Teile auf einen Blick",
         "title": "Most wanted",

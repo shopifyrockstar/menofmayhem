@@ -494,7 +494,7 @@
         "f27bc1e8-fd4f-492a-aa8e-04bd57899b50": {
           "type": "collection",
           "settings": {
-            "collection": "outlet-1",
+            "collection": "women-outlet",
             "label": "Women",
             "button_text": "",
             "button_url": ""
@@ -539,7 +539,7 @@
         "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-1": {
           "type": "collection",
           "settings": {
-            "collection": "outlet-1",
+            "collection": "women-outlet",
             "subheading": "",
             "title": "WOMEN",
             "link_text": "",
