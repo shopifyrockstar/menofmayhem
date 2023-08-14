@@ -186,7 +186,6 @@
     },
     "shop-the-look": {
       "type": "shop-the-look",
-      "disabled": true,
       "blocks": {
         "look-1": {
           "type": "look",
@@ -215,6 +214,7 @@
       "block_order": [
         "look-1"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": false,
         "label": "Shop the looks"
@@ -222,7 +222,6 @@
     },
     "featured-product": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "variant-picker": {
           "type": "variant_picker",
@@ -254,6 +253,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "product": "lederjacke-rampage",
         "subheading": "Jacken & Westen",
@@ -291,7 +291,6 @@
     },
     "1661991052f24315eb": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1661991052771cf2ae-0": {
           "type": "item",
@@ -309,6 +308,7 @@
       "block_order": [
         "1661991052771cf2ae-0"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
@@ -481,12 +481,11 @@
     },
     "342811a0-c27a-4893-8d9d-255618e73e1f": {
       "type": "featured-collections",
-      "disabled": true,
       "blocks": {
         "template--16679352008955__342811a0-c27a-4893-8d9d-255618e73e1f-16801918011922f9f2-0": {
           "type": "collection",
           "settings": {
-            "collection": "outlet",
+            "collection": "men-outlet",
             "label": "Men",
             "button_text": "",
             "button_url": ""
@@ -506,6 +505,7 @@
         "template--16679352008955__342811a0-c27a-4893-8d9d-255618e73e1f-16801918011922f9f2-0",
         "f27bc1e8-fd4f-492a-aa8e-04bd57899b50"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "OUTLET",
@@ -526,7 +526,7 @@
         "template--16679352008955__e7831f79-ad8a-4af5-8166-4d0a8bba67f3-1680188409a1bf7602-0": {
           "type": "collection",
           "settings": {
-            "collection": "outlet",
+            "collection": "men-outlet",
             "subheading": "",
             "title": "MEN",
             "link_text": "",
@@ -708,7 +708,6 @@
     },
     "ca35a4fb-6be5-4720-b4d3-1e934ea7641b": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-1": {
           "type": "collection",
@@ -788,6 +787,7 @@
         "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-4",
         "template--16679352008955__ca35a4fb-6be5-4720-b4d3-1e934ea7641b-1680188409a1bf7602-5"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": false,
         "layout": "grid",
@@ -799,7 +799,6 @@
     },
     "9025db87-7f01-41cd-84d9-15a180a6d54a": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-0": {
           "type": "collection",
@@ -888,6 +887,7 @@
         "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-4",
         "template--16679352008955__9025db87-7f01-41cd-84d9-15a180a6d54a-1680188409a1bf7602-5"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": false,
         "layout": "grid",

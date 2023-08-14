@@ -218,7 +218,7 @@
         "b5e6c7f4-5b81-45d4-8dd0-fb66fc6a37f4": {
           "type": "collection",
           "settings": {
-            "collection": "outlet",
+            "collection": "men-outlet",
             "subheading": "",
             "title": "Outlet",
             "link_text": "",
@@ -252,7 +252,6 @@
     },
     "1661955577555bc7fb": {
       "type": "featured-collections",
-      "disabled": true,
       "blocks": {
         "166195557796371ca2-0": {
           "type": "collection",
@@ -267,6 +266,7 @@
       "block_order": [
         "166195557796371ca2-0"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "unsere beliebtesten Teile auf einen Blick",
         "title": "Most wanted",
@@ -283,7 +283,6 @@
     },
     "16618633899794aaf7": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "16618633890d08a553-0": {
           "type": "collection",
@@ -401,6 +400,7 @@
         "7a6ebe61-478a-4fa6-b5d8-3ae87ad8a211",
         "7cc38435-9316-4602-a71e-8459a83eb9d8"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": false,
         "layout": "carousel",
@@ -435,7 +435,6 @@
     },
     "d0a499c1-21a7-4fa2-94de-2f761b823194": {
       "type": "shop-the-look",
-      "disabled": true,
       "blocks": {
         "template--16679351156987__d0a499c1-21a7-4fa2-94de-2f761b823194-1674128713ceb8b403-0": {
           "type": "look",
@@ -462,6 +461,7 @@
       "block_order": [
         "template--16679351156987__d0a499c1-21a7-4fa2-94de-2f761b823194-1674128713ceb8b403-0"
       ],
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "label": "Shop the looks"
